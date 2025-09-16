@@ -1,6 +1,6 @@
 ## Hey, I'm Chris 👋
 
-🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes, in all modern audio formats but mainly Stereo and Dolby Atmos.
+🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes, mainly in Stereo and Dolby Atmos.
 
 I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
 
