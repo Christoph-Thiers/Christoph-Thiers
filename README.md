@@ -1,10 +1,10 @@
 ## Hey, I'm Chris 👋
 
-🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes, mainly in Stereo and Dolby Atmos.
-
-I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
+🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes. For the last few years, I've worked on thousands of Dolby Atmos productions for a broad variety of high-profile clients and artists as both the studio manager and lead engineer at [ThreeDee Music](https://www.threedeemusic.com/), together with my good friend and CEO Matthias Stalter.
 
 👨‍💻 Code is my side hustle.
+
+I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
 
 ## Tech Stack
 Node.js, React, Next.js, Python
