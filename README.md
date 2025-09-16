@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hey, I'm Chris 👋
 
-<!--
-**Christoph-Thiers/Christoph-Thiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes, in all modern audio formats but mainly Stereo and Dolby Atmos.
 
-Here are some ideas to get you started:
+I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Code is my side hustle.
+
+## Tech Stack
+Node.js, React, Next.js, Python
+
+I've built various APIs and workflow helpers, complex workflow automations, and even helped shape a few great audio plugins at [HOFA-Plugins](https://hofa-plugins.de/) as a consultant in my role as Head of [HOFA-Studios](https://hofa-studios.de/).
+
+🚀 Product Lead at ThreeDee Music, where we dropped [ThreeDee PRO](https://apps.apple.com/at/app/threedee-pro/id1584653537) the mobile app for artists & music pros to approve their Dolby Atmos mixes just like they’ll sound on Apple Music (incl. headtracking and all).
+
+---
+
+### Links & Vibes
+- 🌐 [Website](https://www.christoph-thiers.de/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christophthiers/)
+- 📸 [Instagram](https://www.instagram.com/christoph_thiers/)
+- 🕹️ [TenziesGame](https://github.com/Christoph-Thiers/TenziesGame)
+
+---
+
+### What I’m Into
+- Music & audio technology
+- Tech and startup world
+- Hiking, friendly humans, fancy mics and all dogs
+- Vegetarian on a keto quest (rare beers are my *weakness* though, so I'll alternate at best 🤓)
+- Art, subculture, pop culture, all things culture really
+
+🧩 I find technical solutions to creative problems.  
+💥 Sound. Tech. Code. Diversity. Business. Dedication. And always music.
+
+---
+
+Come say hi or let’s collab!
