@@ -4,7 +4,7 @@
 
 👨‍💻 Code is my side hustle.
 
-I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
+TLDR: I plan, build and run music studios, work on epic records with many amazing artists and solve workflow puzzles with code.
 
 ## Tech Stack
 Node.js, React, Next.js, Python
