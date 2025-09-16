@@ -1,4 +1,4 @@
-## Hey, I'm Chris 👋
+t## Hey, I'm Chris 👋
 
 🎧 Professional Audio wizard, studio manager and immersive sound professional. I mix, master, and craft vibes. For the last few years, I've worked on thousands of Dolby Atmos productions for a broad variety of high-profile clients and artists as both the studio manager and lead engineer at [ThreeDee Music](https://www.threedeemusic.com/), together with my good friend and CEO Matthias Stalter.
 
@@ -16,9 +16,10 @@ Over the years, I have developed various APIs and workflow helpers, complex work
 ---
 
 ### Links & Vibes
-- 🌐 [Website](https://www.christoph-thiers.de/)
+- 👤 [Website](https://www.christoph-thiers.de/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/christophthiers/)
 - 📸 [Instagram](https://www.instagram.com/christoph_thiers/)
+- 🎧 [ThreeDee PRO](https://apps.apple.com/at/app/threedee-pro/id1584653537)
 - 🕹️ [TenziesGame](https://github.com/Christoph-Thiers/TenziesGame)
 
 ---
