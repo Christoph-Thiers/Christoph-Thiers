@@ -9,7 +9,7 @@ TLDR: I plan, build and run music studios, work on epic records with many amazin
 ## Tech Stack
 Node.js, React, Next.js, Python
 
-I've built various APIs and workflow helpers, complex workflow automations, and even helped shape a few great audio plugins as an audio consultant to the amazing development team at [HOFA-Plugins](https://hofa-plugins.de/) as part of my role as senior engineer and Head of Studios at [HOFA-Studios](https://hofa-studios.de/).
+Over the years, I have developed various APIs and workflow helpers, complex workflow automations and the like to increase productivity, quality and efficiency in daily studio workflows. I've also helped shape a few great audio plugins as an audio consultant to the amazing development team at [HOFA-Plugins](https://hofa-plugins.de/) as part of my role as senior engineer and Head of Studios at [HOFA-Studios](https://hofa-studios.de/).
 
 🚀 Product Lead at ThreeDee Music, where we dropped [ThreeDee PRO](https://apps.apple.com/at/app/threedee-pro/id1584653537) the mobile app for artists & music pros to approve their Dolby Atmos mixes just like they’ll sound on Apple Music (incl. headtracking and all).
 
