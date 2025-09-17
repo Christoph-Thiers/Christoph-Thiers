@@ -1,6 +1,6 @@
 t## Hey, I'm Chris 👋
 
-🎧 Professional Audio wizard, studio manager and immersive sound professional. For the last few years, I've mixed and mastered thousands of Dolby Atmos productions for a broad variety of high-profile clients and artists as both the head engineer at [ThreeDee Music](https://www.threedeemusic.com/), together with my good friend and CEO Matthias Stalter.
+🎧 Professional Audio wizard, studio manager and immersive sound professional. For the last few years, I've mixed and mastered thousands of Dolby Atmos productions for a broad variety of high-profile clients and artists as both the head engineer at [ThreeDee Music](https://www.threedeemusic.com/).
 
 👨‍💻 Code is my side hustle.
 
